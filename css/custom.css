@@ -176,14 +176,14 @@ div#category {
 }
 
 /* 页脚透明 */
-/* #footer {
+#footer {
     background: transparent !important;
-} */
+}
 
 /* 头图透明 */
-/* #page-header {
+#page-header {
     background: transparent !important;
-} */
+}
 
 #rightside>div>button {
     border-radius: 5px;
@@ -381,4 +381,13 @@ div#category {
 /* 代码框主题 */
 #article-container figure.highlight {
     border-radius: 10px;
+}
+
+/* 网页背景 */
+body {
+    background: url(https://s11.ax1x.com/2024/01/31/pFKoaJe.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
 }
